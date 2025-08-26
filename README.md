@@ -1,4 +1,4 @@
-# AppleStore_SQL_Project
+# AppleStore Data Analysis & SQL Management
 Analyzes four apple store tables to examine the number of apps and their user ratings to provide recommendations to increase customer downloads, engagement, and quality of apps. These suggestions represent a market opportunity to create a quality app that addresses user needs and a potential for higher user ratings and market penetration.
 ![image](https://github.com/AshleyMetaData/AppleStore_SQL_Project/assets/143841434/0c376685-6330-47ba-9d7e-05faf9dfb48c)
 
